@@ -1,0 +1,10 @@
+{
+  "description": "Монгол ноолуурын бүтээгдэхүүнийг танилцуулж, худалдан авахад зориулсан онлайн дэлгүүр.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
